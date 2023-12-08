@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <h3>Fruits</h3>
+        <ol Type="i" start="5">
+            <li>Mango</li>
+            <li>Orange</li>
+            <li>Banana</li>                                                                       
+            <li>Kiwi</li>
+            <li>Apple</li>
+        </ol>
+        <ul type="square">
+            <li>Football</li>
+            <li>Cricet</li>
+            <li>Kabbadi</li>
+        </ul>
+        
+        <ul type="disc">
+            <li>Ronaldo</li>
+            <li>Neymar</li>
+            <li>Messi</li>
+        </ul>
+           <dl>
+            <dt>About Vishal</dt>
+            <dd>Am Vishal from ECE C</dd>
+            <dt>About Shriiiiii</dt>
+            <dd>Am Shri from ECE C</dd>
+            <dt>About Sai</dt>
+            <dd>Am Sai from ECE C</dd>
+            <dt>About Vikram</dt>
+            <dd>Am Vikram from ECE C</dd>
+    </body>
+</html>
+
+types of list in html   3types: order list, unorder list, description list
+
+
+<ol></ol>     order list
+<ul></ul>     unorder list
+
+
+unorder list has four types : square,disc,circle,none.
